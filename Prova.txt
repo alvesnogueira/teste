@@ -1,0 +1,16 @@
+<?php	
+echo "Prova";
+
+echo "<br><b>Questao 2</b>";
+
+?>
+<ul>
+	<li>== : Compara somente valor</li>
+	<li>=== : Compara valor e tipo</li>
+</ul>
+
+Equação de Segundo Grau:
+Forma Geral: ax2 + bx + c = 0
+Fórmula de Delta: b2 – 4 * a * c
+Calculando X: -(b) +- (Raiz quadrada de Delta) / 2 * a
+

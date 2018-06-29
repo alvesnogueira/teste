@@ -1,0 +1,17 @@
+                           
+Your title: Israel Alves Nogueira.
+                           
+Site: israel.alves.nogueira1@gmail.com
+                            
+Twitter: @alvesdesign.
+                            
+Location: Belo horizonte, brasil
+                 
+/* SITE */
+                            
+Last update: 2018/06/29 
+                            
+Standards: HTML5, CSS3,..
+                            
+Components: Modernizr, jQuery, etc.
+
